@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+xn--939a48twoh87d97cv7siwap9iyval8w.com	TRUE	/	FALSE	1999999999	PHPSESSID	qee5ffshc7euogrprl7n0k7ht3
+xn--939a48twoh87d97cv7siwap9iyval8w.com	TRUE	/	FALSE	1999999999	2a0d2363701f23f8a75028924a3af643	MS4yMjkuOTIuODU%3D
+player.vimeo.com	TRUE	/	FALSE	1999999999	__cf_bm	DFz1lS51gdXJOD6Mup7_a3mG57BmeaYAkP0IcQ2CMyk-1786417429.1015742-1.0.1.1-xSMclN2SrTcRrrd9gpmx1AHUE7_3yfE6bvkAIO4YmNqRBG2PscNtnKZJUnfmFrc7u6g1dT07p2pZI.SwvA87iQ3fY35PETzVrkzv6JfQFlQtrfdvZLRH0O.JVN2aJNs0
+vimeo.com	TRUE	/	FALSE	1999999999	SameSite	None
+xn--939a48twoh87d97cv7siwap9iyval8w.com	TRUE	/	FALSE	1999999999	e1192aefb64683cc97abb83c71057733	cHJlc3M%3D
+
